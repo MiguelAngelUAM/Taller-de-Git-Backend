@@ -1,14 +1,7 @@
-# Taller Backend - MAIN
-
-\# Taller de Git Backend - Programación
+# Taller de Git Backend - Programación
 
 Repositorio actualizado desde el ultimo acceso
 
-
-
-\## Uso del repositorio
-
-
+## Uso del repositorio
 
 Este repositorio se utiliza para almacenar y gestionar los trabajos y actividades de Programación Backend.
-
